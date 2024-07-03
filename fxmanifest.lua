@@ -5,20 +5,19 @@
 -- |___|_| |_| |_/_/   \_\_|\__,_|\__,_|_| |_|\___/ 
 -- 
 
--- Support: https://discord.gg/ehp4yJUqgj
-
-
 fx_version 'cerulean'
 game 'gta5'
 
 author 'ImAidanJ'
-description '[FREE] Removes Peds from Server.'
-url 'https://discord.gg/ehp4yJUqgj'
+description '[FREE] No Peds Script'
+version 'FINAL'
 
+-- Client Scripts
 client_scripts {
-    'client/*.lua'
+    'client/*.js'
 }
 
+-- Server Scripts
 server_scripts {
-    'server/*.lua'
+    'server/*.js'
 }
