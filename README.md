@@ -22,3 +22,5 @@ This FiveM script reduces the density of vehicles and pedestrians in the game to
 
 4. **Start your server:**
    - Restart your FiveM server or start it if it’s not already running.
+   
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S310DONO)
